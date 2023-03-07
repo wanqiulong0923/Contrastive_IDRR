@@ -1,5 +1,6 @@
 # Facilitating Contrastive Learning of Discourse Relational Senses by Exploiting the Hierarchy of Sense Relations
-This repo contains the PyTorch implementation of Wanqiu Long, Bonnie Webber Facilitating Contrastive Learning of Discourse Relational Senses by Exploiting the Hierarchy of Sense Relations EMNLP2022
+This repo contains the PyTorch implementation of Wanqiu Long, Bonnie Webber Facilitating Contrastive Learning of Discourse Relational Senses by Exploiting the Hierarchy of Sense Relations EMNLP2022.
+
 For any questions, please contact the first author([email]wanqiu.long@ed.ac.uk)) or leave issues.
 
 
@@ -25,4 +26,4 @@ If you find this repo useful, please cite our paper.
 
 
 
-[lm-bff-paper]: https://aclanthology.org/2022.emnlp-main.734.pdf
+[paper]: https://aclanthology.org/2022.emnlp-main.734.pdf
